@@ -5,7 +5,7 @@
 ### When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort.  In contrast, someone who has a fixed mindset believes that they are born with a certain amount of talent and intelligence and that cannot be improved no matter how much effort they put forth.
 ![growth](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 
- ## *How to keep yourself in a growth mindset*  
+ ## ***How to keep yourself in a growth mindset***  
  
 * Learn from the mistakes of others
 * Be realistic
