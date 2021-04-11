@@ -1,4 +1,4 @@
-#### ***My name is Dina Al-Barghouthi, I hold a bachelor's degree in French language and literature from the University of Jordan with an average of "very good" ,After that i worked in toursim field about 2 years, I have a passion for learning more and learning anything new especially in programming , that's a great opportunity will improve my programming skills and obtain a better job.***
+  #### ***My name is Dina Al-Barghouthi, I hold a bachelor's degree in French language and literature from the University of Jordan with an average of "very good" ,After that i worked in toursim field about 2 years, I have a passion for learning more and learning anything new especially in programming , that's a great opportunity will improve my programming skills and obtain a better job.***
 
 # ***Growth Mindset***
 ### When someone has a growth mindset they believe that they can continue to learn and become more intelligent with effort.  In contrast, someone who has a fixed mindset believes that they are born with a certain amount of talent and intelligence and that cannot be improved no matter how much effort they put forth.
@@ -28,4 +28,4 @@
   ***Reading*** |***Title***                                      
   ------------- | ------------------------------------        
   Read :01      |[Introductory HTML and JavaScript](class-01) 
-  Read :02a     |[HTML Text, CSS Introduction](class-02)                                              
+  Read :02a     |[HTML Text, CSS Introduction](class-02)                                            
