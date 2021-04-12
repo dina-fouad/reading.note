@@ -29,3 +29,4 @@
   ------------- | ------------------------------------        
   Read :01      |[Introductory HTML and JavaScript](class-01) 
   Read :02a     |[HTML Text, CSS Introduction](class-02)                                            
+  Read :03      |[HTML Lists, Control Flow with JS](class-03)   
