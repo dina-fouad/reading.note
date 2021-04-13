@@ -26,7 +26,8 @@
 ## ***Amman-code-201d23***
 
   ***Reading*** |***Title***                                      
-  ------------- | ------------------------------------        
+  ------------- | --------------------------------------------------        
   Read :01      |[Introductory HTML and JavaScript](class-01) 
   Read :02a     |[HTML Text, CSS Introduction](class-02)                                            
   Read :03      |[HTML Lists, Control Flow with JS](class-03)   
+  Read :04      |[ JS Functions, and Intro to CSS Layout](class-04) 
