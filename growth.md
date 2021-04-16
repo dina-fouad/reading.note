@@ -32,3 +32,4 @@
   Read :03      |[HTML Lists, Control Flow with JS](class-03)   
   Read :04      |[ JS Functions, and Intro to CSS Layout](class-04) 
   Read :05      |[Images, Color, Text](class-05)
+  Read :06      |[Problem Domain, Objects, and the DOM](class-06)        
