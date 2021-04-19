@@ -35,3 +35,4 @@
   Read :05      |[Images, Color, Text](class-05)
   Read :06      |[Problem Domain, Objects, and the DOM](class-06)
   Read :07      |[Object-Oriented Programming](class-07)
+  Read :08      |[CSS Layout](class-08)
