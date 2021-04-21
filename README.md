@@ -37,3 +37,4 @@
   Read :07      |[Object-Oriented Programming](class-07)
   Read :08      |[CSS Layout](class-08)
   Read :09      |[Forms and JS Events](class09.md)
+  Read :09      |[Debugging](class10.md)
