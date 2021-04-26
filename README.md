@@ -39,4 +39,5 @@
   Read :09      |[Forms and JS Events](class09.md)
   Read :10      |[Debugging](class10.md)
   Read :11      |[Audio, Video, Images](class11.md)
-  Read :11      |[Chart.js, Canvas](class12.md)
+  Read :12      |[Chart.js, Canvas](class12.md)
+  Read :13      |[Local Storage](class13.md)
