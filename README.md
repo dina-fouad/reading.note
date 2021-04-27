@@ -41,3 +41,4 @@
   Read :11      |[Audio, Video, Images](class11.md)
   Read :12      |[Chart.js, Canvas](class12.md)
   Read :13      |[Local Storage](class13.md)
+  Read :14      |[CSS Transforms, Transitions, and Animations](class14.md)
