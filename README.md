@@ -13,33 +13,40 @@
 
 ## ***Amman-code-102d27 :***
 
-  ***Reading***| ***Title***                                
+  ***Reading***| *** Intro to Software Development***                                
   -------------| ------------------------------------ 
-  Read :01     |[The coder's copmuter](dina1)         
-  Read :02a    |[learning markdown](dina2)            
-  Read :02b    |[reveisions and the cloud](dina3)     
-  Read :03     |[Structure web pages with HTML](dina4)
-  Read :04     |[ Programming with JavaScript](dina5) 
-  Read :05     |[Operators and loops](dina6)          
-  Read :06     |[Design web pages with CSS](dina7)    
+  Read :01     |[The coder's copmuter](./code201/dina1)         
+  Read :02a    |[learning markdown](./code201/dina2)            
+  Read :02b    |[reveisions and the cloud](./code201/dina3)     
+  Read :03     |[Structure web pages with HTML](./code201/dina4)
+  Read :04     |[ Programming with JavaScript](./code201/dina5) 
+  Read :05     |[Operators and loops](./code201/dina6)          
+  Read :06     |[Design web pages with CSS](./code201/dina7)    
 
 
 ## ***Amman-code-201d23 :***
 
-  ***Reading*** |***Title***                                      
+  ***Reading*** |***Foundations of Software Development***                                      
   ------------- | -------------------------------------------------        
-  Read :01      |[Introductory HTML and JavaScript](class-01) 
+  Read :01      |[Introductory HTML and JavaScript](./code201/class-01) 
   Read :02      |[HTML Text, CSS Introduction](class-02)                                     
-  Read :03      |[HTML Lists, Control Flow with JS](class-03)
+  Read :03      |[HTML Lists, Control Flow with JS](./code201/class-03)
   Read :04      |[ JS Functions, and Intro to CSS Layout](class-04)                                            
-  Read :05      |[Images, Color, Text](class-05)
+  Read :05      |[Images, Color, Text](./code201/class-05)
   Read :06      |[Problem Domain, Objects, and the DOM](class-06)
-  Read :07      |[Object-Oriented Programming](class-07)
-  Read :08      |[CSS Layout](class-08)
-  Read :09      |[Forms and JS Events](class09.md)
-  Read :10      |[Debugging](class10.md)
-  Read :11      |[Audio, Video, Images](class11.md)
-  Read :12      |[Chart.js, Canvas](class12.md)
-  Read :13      |[Local Storage](class13.md)
+  Read :07      |[Object-Oriented Programming](./code201/class-07)
+  Read :08      |[CSS Layout](./code201/class-08)
+  Read :09      |[Forms and JS Events](./code201/class09.md)
+  Read :10      |[Debugging](./code201/class10.md)
+  Read :11      |[Audio, Video, Images](./code201/class11.md)
+  Read :12      |[Chart.js, Canvas](./code201/class12.md)
+  Read :13      |[Local Storage](./code201/class13.md)
   Read :14      |[CSS Transforms, Transitions, and Animations](class14.md)
-  Read :14b     |[ What Google Learned About Teams](class14b.md)
+  Read :14b     |[ What Google Learned About Teams](./code201/class14b.md)
+
+
+  ## ***Amman-code-103d27 :***
+
+  ***Reading***| ***Intermediate Software Development***                                
+  -------------| ------------------------------------ 
+  Read :01     |[The coder's copmuter](./code301/) 
