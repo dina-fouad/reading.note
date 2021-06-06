@@ -13,7 +13,7 @@
 
 ## ***Amman-code-102d27 :***
 
-  ***Reading***| *** Intro to Software Development***                                
+  ***Reading***| ***Intro to Software Development***                                
   -------------| ------------------------------------ 
   Read :01     |[The coder's copmuter](./code201/dina1)         
   Read :02a    |[learning markdown](./code201/dina2)            
@@ -49,4 +49,4 @@
 
   ***Reading***| ***Intermediate Software Development***                                
   -------------| ------------------------------------ 
-  Read :01     |[The coder's copmuter](./code301/) 
+  Read :02     |[State and Props](./code301/read02.md) 
