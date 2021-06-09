@@ -52,3 +52,4 @@
   Read :02     |[State and Props](./code301/read02.md) 
   Read :03     |[Passing Functions as Props](./code301/read03.md) 
   Read :04     |[React and Forms](./code301/read4.md) 
+  Read :05     |[Putting it all together](./code301/read05.md) 
