@@ -49,8 +49,9 @@
 
   ***Reading***| ***Intermediate Software Development***                                
   -------------| ------------------------------------ 
-  Read :05     |[Introduction to React and Components](./code301/read01.md) 
+  Read :01     |[Introduction to React and Components](./code301/read01.md) 
   Read :02     |[State and Props](./code301/read02.md) 
   Read :03     |[Passing Functions as Props](./code301/read03.md) 
   Read :04     |[React and Forms](./code301/read4.md) 
   Read :05     |[Putting it all together](./code301/read05.md) 
+  Read :05     |[ NODE.JS](./code301/read06.md) 
