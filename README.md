@@ -54,4 +54,5 @@
   Read :03     |[Passing Functions as Props](./code301/read03.md) 
   Read :04     |[React and Forms](./code301/read4.md) 
   Read :05     |[Putting it all together](./code301/read05.md) 
-  Read :05     |[ NODE.JS](./code301/read06.md) 
+  Read :06     |[ NODE.JS](./code301/read06.md) 
+  Read :07     |[REST](./code301/read07.md) 
