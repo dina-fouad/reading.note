@@ -57,3 +57,4 @@
   Read :06     |[ NODE.JS](./code301/read06.md) 
   Read :07     |[REST](./code301/read07.md) 
   Read :08     |[APIs](./code301/read08.md) 
+  Read :09     |[FUNCTIONAL PROGRAMMING](./code301/read09.md) 
