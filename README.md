@@ -58,3 +58,4 @@
   Read :07     |[REST](./code301/read07.md) 
   Read :08     |[APIs](./code301/read08.md) 
   Read :09     |[FUNCTIONAL PROGRAMMING](./code301/read09.md) 
+  Read :10     |[In memory storage](./code301/read10.md)
