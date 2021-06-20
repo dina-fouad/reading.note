@@ -1,14 +1,12 @@
 ## nosql vs sql
 
-   **SQL**                                         |   **NoSQL**
----------------------------------------------------|--------------------------------------------------
-SQL databases are primarily called as              |are primarily called as non-relational or distributed database.
-Relational Databases (RDBMS).                      | are the collection of key-value pair, documents     |                                                  |databases or wide-column stores
-table based databases.                             | dynamic schema for unstructured data.
-have predefined schema                             | horizontally scalable
-are vertically scalable                            | databases have dynamic schemas for
-are better for multi-row transactions                | 
---------------------------------------------------------------------------------------------------------
+
+  SQL                                  |      NoSQL      
+ ------------------------------------- |------------------------------------------
+  SQL databases are relational         |  NoSQL are non-relational
+  are better for multi-row transactions| are better for unstructured data like documents or JSON.  
+  databases are table based databases  | databases are document based, key-value pairs     
+                                        
 
 - What kind of data is a good fit for an SQL database?
 
