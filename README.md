@@ -45,7 +45,7 @@
   Read :14b     |[ What Google Learned About Teams](./code201/class14b.md)
 
 
-  ## ***Amman-code-103d27 :***
+  ## ***Amman-code-103***
 
   ***Reading***| ***Intermediate Software Development***                                
   -------------| ------------------------------------ 
@@ -67,9 +67,10 @@
 
 ## ***Amman-code-104:***
 ***Reading***| ***Advanced Software Development*** 
--------------| ------------------------------------
- Read :01    |[]() 
- Read :02    |[]()
+ ------------| ------------------------------------ 
+  Read :01   |[](./code301/read01.md) 
+  Read :02   |[](./code301/read02.md)
+
 
 
 
