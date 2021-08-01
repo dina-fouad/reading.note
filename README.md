@@ -68,6 +68,7 @@
   Read :04     |[ classes and Objects](./code401/read04.md)
   Read :05     |[ Linked Lists](./code401/read05.md)
   Read :06     |[ Game of Greed 1](./code401/read06.md)
+  Read :07     |[ Game of Greed 2](./code401/read07.md)
 
 
 
