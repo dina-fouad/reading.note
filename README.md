@@ -70,6 +70,7 @@
   Read :06     |[ Game of Greed 1](./code401/read06.md)
   Read :07     |[ Game of Greed 2](./code401/read07.md)
   Read :08     |[ Game of Greed 3](./code401/read08.md)
+  Read :09     |[ Game of Greed 4](./code401/read09.md)
 
 
 
