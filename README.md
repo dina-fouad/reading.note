@@ -71,6 +71,7 @@
   Read :07     |[ Game of Greed 2](./code401/read07.md)
   Read :08     |[ Game of Greed 3](./code401/read08.md)
   Read :09     |[ Game of Greed 4](./code401/read09.md)
+  Read :10     |[Stacks and Queues](./code401/read10.md)
 
 
 
