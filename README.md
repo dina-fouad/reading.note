@@ -73,7 +73,7 @@
   Read :09     |[ Game of Greed 4](./code401/read09.md)
   Read :10     |[Stacks and Queues](./code401/read10.md)
   Read :11     |[Data Analysis](./code401/read11.md)
-
+  Read :12     |[Pandas in 10](./code401/read12.md)
 
 
 
