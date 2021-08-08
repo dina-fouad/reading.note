@@ -74,7 +74,7 @@
   Read :10     |[Stacks and Queues](./code401/read10.md)
   Read :11     |[Data Analysis](./code401/read11.md)
   Read :12     |[Pandas in 10](./code401/read12.md)
-
+  Read :13     |[Linear Regressions](./code401/read13.md)
 
 
 
