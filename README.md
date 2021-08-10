@@ -75,6 +75,7 @@
   Read :11     |[Data Analysis](./code401/read11.md)
   Read :12     |[Pandas in 10](./code401/read12.md)
   Read :13     |[Linear Regressions](./code401/read13.md)
+  Read :14     |[Data Visualization](./code401/read14.md)
 
 
 
