@@ -83,6 +83,6 @@
   Read :19     |[Automation](./code401/read19.md)
   Read :20     |[Intro to Django](./code401/read20.md)
   Read :21     |[Django Models](./code401/read21.md)
-
+  Read :22     |[Django CRUD and Forms](./code401/read22.md)
 
 
