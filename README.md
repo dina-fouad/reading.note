@@ -85,5 +85,5 @@
   Read :21     |[Django Models](./code401/read21.md)
   Read :22     |[Django CRUD and Forms](./code401/read22.md)
   Read :23     |[Django Custom User](./code401/read23.md)
-
+  Read :24     |[Hashtables](./code401/read24.md)
 
