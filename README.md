@@ -88,4 +88,5 @@
   Read :24     |[Hashtables](./code401/read24.md)
   Read :25     |[ Django REST Framework & Docker](./code401/read25.md)
   Read :26     |[Permissions & Postgresql](./code401/read26.md)
+  Read :27     |[Authentication & Production Server](./code401/read27.md)
 
