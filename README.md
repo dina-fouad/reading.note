@@ -92,5 +92,6 @@
   Read :28     |[API Deployment](./code401/read28.md)
   Read :29     |[Graphs](./code401/read29.md)
   Read :30     |[DSA Review](./code401/read30.md)
+  Read :31     |[React 1](./code401/read31.md)
 
 
